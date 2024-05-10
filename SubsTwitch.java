@@ -22,6 +22,8 @@ public class SubsTwitch {
         //Declaro variables
         int subs;
         int ganancias;
+
+        int entornos;
         
         //Pido el numero de subs por consola y se calcula la ganancia
         System.out.println("Cuantos subs tengo?");
